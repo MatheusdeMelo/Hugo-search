@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TSite</title>
+    <link>http://example.org/</link>
+    <description>Recent content on TSite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Sep 2022 11:17:48 -0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>William Lane Craig</title>
+      <link>http://example.org/posts/williamlanecraig/</link>
+      <pubDate>Tue, 20 Sep 2022 11:17:48 -0300</pubDate>
+      
+      <guid>http://example.org/posts/williamlanecraig/</guid>
+      <description>William Lane Craig is a teleologist and famous autor, one of the most popular christian apologist.</description>
+    </item>
+    
+    <item>
+      <title>Escalandoanuvem</title>
+      <link>http://example.org/posts/escalandoanuvem/</link>
+      <pubDate>Mon, 19 Sep 2022 13:53:35 -0300</pubDate>
+      
+      <guid>http://example.org/posts/escalandoanuvem/</guid>
+      <description>In Escalando a Nuvem we study about cloud and there&amp;rsquo;s influency</description>
+    </item>
+    
+  </channel>
+</rss>
