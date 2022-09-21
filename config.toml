@@ -9,3 +9,7 @@ mediaType = "application/json"
 
 [outputs]
 home = [ "HTML", "RSS", "SearchIndex" ]
+
+[params]
+custom_css = ["lunr_search.css"]
+custom_js = ["lunr_search.js"]
